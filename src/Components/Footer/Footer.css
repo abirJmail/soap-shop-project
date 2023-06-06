@@ -1,0 +1,12 @@
+.Footer{
+    background-color: gray;
+    color: #fff;
+    padding: 5rem 15rem ;
+}
+.navfooter{
+    display: flex;
+    justify-content: space-around;
+}
+.HrFooter{
+    margin: 2rem 0;
+}
